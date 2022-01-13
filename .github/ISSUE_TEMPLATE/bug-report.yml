@@ -26,6 +26,7 @@ body:
       value: "A bug happened!"
     validations:
       required: true
+    maxlength: 50
   - type: dropdown
     id: version
     attributes:
