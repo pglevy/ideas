@@ -1,0 +1,15 @@
+---
+name: Tweet idea
+about: Capture ideas to tweet
+title: ''
+labels: ''
+assignees: ''
+
+---
+
+<!--
+This is about how long it should be:
+---  
+Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances. #first
+---
+-->
