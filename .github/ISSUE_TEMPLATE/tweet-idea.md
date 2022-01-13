@@ -2,7 +2,7 @@
 name: Tweet idea
 about: Capture ideas to tweet
 title: ''
-labels: ''
+labels: 'tweet'
 assignees: ''
 
 ---
