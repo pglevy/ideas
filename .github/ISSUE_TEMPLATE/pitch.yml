@@ -3,7 +3,8 @@ description: Explain a concept in a complete, consistent format so you and other
 labels: [pitch]
 body: 
   - type: markdown
-    value: "This prompt is for writing a pitch as described in [Shape Up](https://basecamp.com/shapeup/1.5-chapter-06), the e-book outlining how Basecamp works."
+    attributes:
+      value: "This prompt is for writing a pitch as described in [Shape Up](https://basecamp.com/shapeup/1.5-chapter-06), the e-book outlining how Basecamp works."
   - type: textarea
     id: problem
     attributes:
