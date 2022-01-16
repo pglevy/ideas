@@ -20,7 +20,7 @@ body:
     id: outline
     attributes:
       label: Outline
-      description: "What are the high-level points you want to include?"
+      description: "What are the high-level supporting details you want to include?"
   - type: textarea
     id: takeaways
     attributes:
