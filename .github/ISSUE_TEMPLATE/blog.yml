@@ -1,0 +1,33 @@
+name: Blog
+description: Share your thoughts with the world in a post
+labels: [blog]
+title: 'Working title: '
+body: 
+  - type: markdown
+    attributes:
+      value: "These are some prompts to help you organize your thoughts. Use or ignore them as desired."
+  - type: textarea
+    id: audience
+    attributes:
+      label: Audience
+      description: "Who are you writing for? If you have an existing audience, which segment of that audience?"
+  - type: textarea
+    id: main-idea
+    attributes:
+      label: Main idea
+      description: "What is the main thought you want to share? Or the main point you want to make?"
+  - type: textarea
+    id: outline
+    attributes:
+      label: Outline
+      description: "What are the high-level points you want to include?"
+  - type: textarea
+    id: takeaways
+    attributes:
+      label: Takeaways
+      description: "What do you want people to know or do after reading your post?"
+  - type: textarea
+    id: resources
+    attributes:
+      label: Resources
+      description: "What are some links to related resources and inspiration for either you or your audience?"
