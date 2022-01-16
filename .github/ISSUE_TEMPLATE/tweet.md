@@ -1,10 +1,9 @@
 ---
-name: Tweet idea
-about: Capture ideas to tweet
-title: ''
+name: Tweet
+about: Share a thought in 280 characters or less
 labels: 'tweet'
-assignees: ''
-
+title: 
+assignees: 
 ---
 
 <!--
